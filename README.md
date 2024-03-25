@@ -1,5 +1,3 @@
-This project is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) license. By contributing to this project, you agree to release your contributions under the same license.
-
 # Ex Capita: Dystopian Econ 101
 
 welcome everyone to the repository for Ex Capita is the open project for economists, writers, artists and animators and producers to come together under an open writing project themeed over the enclosed economic ecosystem of capitalism hill. this project is just a fun experiment to explor the intersection between school learing and economic acumen in a fictional setting this is my first github project and learn about the writting process itself in collabraivie settings end goal is a fun work of fiction for every one
